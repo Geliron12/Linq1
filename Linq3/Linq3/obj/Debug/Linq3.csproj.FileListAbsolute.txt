@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq3\Linq3\bin\Debug\Linq3.exe.config
+C:\Users\geliron\source\repos\Linq3\Linq3\bin\Debug\Linq3.exe
+C:\Users\geliron\source\repos\Linq3\Linq3\bin\Debug\Linq3.pdb
+C:\Users\geliron\source\repos\Linq3\Linq3\obj\Debug\Linq3.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq3\Linq3\obj\Debug\Linq3.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq3\Linq3\obj\Debug\Linq3.exe
+C:\Users\geliron\source\repos\Linq3\Linq3\obj\Debug\Linq3.pdb

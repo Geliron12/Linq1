@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq5\Linq5\bin\Debug\Linq5.exe.config
+C:\Users\geliron\source\repos\Linq5\Linq5\bin\Debug\Linq5.exe
+C:\Users\geliron\source\repos\Linq5\Linq5\bin\Debug\Linq5.pdb
+C:\Users\geliron\source\repos\Linq5\Linq5\obj\Debug\Linq5.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq5\Linq5\obj\Debug\Linq5.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq5\Linq5\obj\Debug\Linq5.exe
+C:\Users\geliron\source\repos\Linq5\Linq5\obj\Debug\Linq5.pdb
